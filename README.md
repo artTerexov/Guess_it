@@ -11,4 +11,4 @@
 5. Android studio
 6. Git
 ## Внешний вид
-![screenshot of sample](Guess it.png)
+![screenshot of sample](Guess_it.png)
